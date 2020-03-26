@@ -1,0 +1,7 @@
+﻿  Reading Qt configuration (\bin\qmake.exe)
+cw2.vcxproj : error : ERROR running qmake
+cw2.vcxproj : error : qmake: (\bin\qmake.exe)
+cw2.vcxproj : error : qmake: $PWD=C:\Users\Ding\AppData\Local\Temp\umpvmiod.4j0
+cw2.vcxproj : error : qmake: ϵͳ�Ҳ���ָ����·����
+cw2.vcxproj : error : qmake: Error creating Makefile
+cw2.vcxproj : error : 
